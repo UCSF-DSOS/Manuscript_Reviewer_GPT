@@ -1,4 +1,4 @@
-# Overview
+# Overview and setup
 
 This is a custom GPT for ChatGPT, for getting feedback on a scientific manuscript.
 
@@ -12,7 +12,7 @@ After creating the GPT, you may type `/help` for an overview. An example is prov
 
 To create the GPT: 
 
-- on ChatGPT, navigate to the page for creating a custom GPT (Explore GPTs > + Create)
+- in ChatGPT, navigate to the page for creating a custom GPT (Explore GPTs > + Create)
 - navigate to the **Configure** tab 
 - copy the instructions below (you may use the copy icon) into the **Instructions** field
 - select the Web Search option in **Capabilities** (you may unselect all other options)
