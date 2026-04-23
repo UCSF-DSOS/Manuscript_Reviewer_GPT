@@ -10,7 +10,7 @@ After creating the GPT, you may type `/help` for an overview. An example is prov
 /review JAMA Internal Medicine > Original Investigation
 ```
 
-## Instructions
+# Instructions
 
 ```plaintext
 # Commands
