@@ -19,7 +19,7 @@ After creating the GPT, you may type `/help` for an overview. An example is prov
 
 # Warning
 
-We recommend using this tool only to **obtain feedback on your own work**. Note:
+We recommend using this tool **only to obtain feedback on your own work**. Note:
 
 - most journals prohibit using AI to perform peer review
 - journals also generally require disclosure of AI if there is substantial use
