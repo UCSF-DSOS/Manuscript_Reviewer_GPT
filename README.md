@@ -17,6 +17,10 @@ To create the GPT:
 - copy the instructions below (you may use the copy icon) into the **Instructions** field
 - select the Web Search option in **Capabilities** (you may unselect all other options)
 
+# Warning
+
+Most journals prohibit using AI to perform peer review. More information about journal guidelines can be found in [our workshop on using AI as a writing editor](https://courses.ucsf.edu/course/view.php?id=12582).
+
 # Instructions
 
 ```plaintext
