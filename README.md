@@ -19,7 +19,12 @@ To create the GPT:
 
 # Warning
 
-Most journals prohibit using AI to perform peer review. More information about journal guidelines can be found in [our workshop on using AI as a writing editor](https://courses.ucsf.edu/course/view.php?id=12582).
+We recommend using this tool only to **obtain feedback on your own work**. Note:
+
+- most journals prohibit using AI to perform peer review
+- journals also generally require disclosure of AI beyond substantial use
+
+More information about journal guidelines can be found in [our workshop on using AI as a writing editor](https://courses.ucsf.edu/course/view.php?id=12582).
 
 # Instructions
 
