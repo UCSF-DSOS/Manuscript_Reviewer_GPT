@@ -1,14 +1,8 @@
-# Overview and setup
+# Overview 
 
 This is a custom GPT for ChatGPT, for getting feedback on a scientific manuscript.
 
-To create the GPT, **copy the instructions below** (you may use the copy icon) into the **Instructions** field for a new GPT.
-
-After creating the GPT, you may type `/help` for an overview. An example is provided below:
-
-```
-/review JAMA Internal Medicine > Original Investigation
-```
+# Setup
 
 To create the GPT: 
 
@@ -16,6 +10,12 @@ To create the GPT:
 - navigate to the **Configure** tab 
 - copy the instructions below (you may use the copy icon) into the **Instructions** field
 - select the Web Search option in **Capabilities** (you may unselect all other options)
+
+After creating the GPT, you may type `/help` for an overview. An example is provided below:
+
+```
+/review JAMA Internal Medicine > Original Investigation
+```
 
 # Warning
 
