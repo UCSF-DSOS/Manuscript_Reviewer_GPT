@@ -11,6 +11,8 @@ To create the GPT:
 - copy the instructions below (you may use the copy icon) into the **Instructions** field
 - select the Web Search option in **Capabilities** (you may unselect all other options)
 
+Alternatively, you can copy the instructions into a new prompt in a chatbot of your choice (eg, ChatGPT, Claude, or Gemini).
+
 After creating the GPT, you may type `/help` for an overview. An example is provided below:
 
 ```
