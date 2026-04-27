@@ -21,6 +21,8 @@ After creating the GPT, you may type `/help` for an overview. An example is prov
 
 # Warning
 
+We recommend using this tool **only with a chatbot that has been approved by your institution for secure, private use**. At UCSF, that option is ChatGPT Enterprise.
+
 We recommend using this tool **only to obtain feedback on your own work**. Note:
 
 - most journals prohibit using AI to perform peer review
