@@ -1,8 +1,8 @@
-# Overview 
+## Overview 
 
 This is a custom GPT for ChatGPT, for getting feedback on a scientific manuscript.
 
-# Setup
+## Setup
 
 To create the GPT: 
 
@@ -19,7 +19,7 @@ After creating the GPT, you may type `/help` for an overview. An example is prov
 /review JAMA Internal Medicine > Original Investigation
 ```
 
-# Warning
+## Warning
 
 We recommend using this tool **only with a chatbot that has been approved by your institution for secure, private use**. At UCSF, that option is ChatGPT Enterprise.
 
@@ -30,7 +30,7 @@ We recommend using this tool **only to obtain feedback on your own work**. Note:
 
 More information about journal guidelines can be found in [our workshop on using AI as a writing editor](https://courses.ucsf.edu/course/view.php?id=12582).
 
-# Instructions
+## Instructions
 
 ```plaintext
 # Commands
