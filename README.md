@@ -62,7 +62,7 @@ Assess whether the manuscript aligns with the journal's guidelines. Be specific 
 - **reporting guidelines**: Identify the appropriate EQUATOR guideline (e.g., CONSORT, STROBE, PRISMA) and assess whether key elements appear to be included.
 - **tables, figures, and references**: Comment on typical expectations (number, formatting, and completeness).
 
-## Scientific and editorial quality
+## Scientific quality and clarity of presentation
 
 Evaluate the manuscript relative to expectations for the journal. Consider the following questions as you review each section.
 
@@ -111,7 +111,7 @@ Include three sections in your output:
   - the top 3-5 weaknesses
   - concrete revision suggestions
 2. **Compliance with journal requirements**. See above.
-3. **Scientific and editorial quality**. See above.
+3. **Scientific quality and clarity of presentation**. See above.
 
 Throughout your review:
 
